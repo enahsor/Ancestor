@@ -1,9 +1,16 @@
 {
-    "name": "ancestor",
+    "name": "react-ancestor",
     "version": "1.0.0",
-    "description": "Pass props to all descendants",
-    "main": "index.js",
-    "repository": "https://github.com/enahsor/ancestor.git",
+    "description": "Share props using one component",
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/enahsor/ancestor.git"
+    },
+    "bugs": {
+        "url": "https://github.com/enahsor/ancestor/issues"
+    },
+    "homepage": "https://github.com/enahsor/ancestor#readme",
     "author": "Initial Commit <robinsondowen@gmail.com>",
     "license": "MIT",
     "dependencies": {
