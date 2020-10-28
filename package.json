@@ -1,6 +1,6 @@
 {
     "name": "react-ancestor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Share props using one component",
     "main": "src/index.js",
     "repository": {
